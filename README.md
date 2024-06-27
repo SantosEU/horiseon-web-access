@@ -1,4 +1,4 @@
-<h1>horison-web-access</h1>
+<h1>horiseon-web-access</h1>
 <p>Horiseon growth tips for a webpage .</p>
 
 
