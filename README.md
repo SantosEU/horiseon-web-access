@@ -3,5 +3,5 @@
 
 
 <h2>Description</h2>
-<p>This project was made to give some guidance on growing or managing a webpage .</p> 
+<p>This project was made to give guidance to site owners with actionable growth tips to optimize their webpages .By analyzing key performance indicators ,user behavior and trends it provides recommendations to enhance user experience ,boost search engine ranckings and increase conversion rates .The project offers comprehensive tools and resources that include SEO practices ,content strategy advice to provide continous improvement and growth to a webpage .</p> 
 
