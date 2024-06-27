@@ -3,5 +3,5 @@
 
 
 <h2>Description</h2>
-<p>This project was made to </p> 
+<p>This project was made to give some guidance on growing or managing a webpage .</p> 
 
