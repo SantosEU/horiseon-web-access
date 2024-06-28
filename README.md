@@ -7,7 +7,7 @@
 
 
 <h2>Preview</h2>
-![image](https://github.com/SantosEU/horiseon-web-access/assets/172340264/baa2b91e-0ec1-44a3-8ae4-a9ef6a0760e2)
+![preview of webpage](https://github.com/SantosEU/horiseon-web-access/assets/172340264/4dac0358-9967-4a99-8cb5-bd50a10dccbd)
 
 
 
