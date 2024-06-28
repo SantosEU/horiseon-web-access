@@ -12,5 +12,5 @@
 
 
 <h2>Link</h2>
-<a id='https://santoseu.github.io/horiseon-web-access/'></a>
+[https://santoseu.github.io/horiseon-web-access/]
 
