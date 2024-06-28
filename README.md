@@ -12,5 +12,5 @@
 
 
 <h2>Link</h2>
-## Features <a id='https://santoseu.github.io/horiseon-web-access/'></a>
+<a id='https://santoseu.github.io/horiseon-web-access/'></a>
 
